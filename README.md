@@ -27,7 +27,7 @@ Pacote de atmosphere totalmente configurado e pronto para uso no seu Nintendo Sw
 
 - [NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log): Homebrew que monitora de maneira detalhada o tempo de uso de cada jogo.
 
--[NX Gallery](https://github.com/iUltimateLP/NXGallery/releases): Homebrew que permite que você acesse seus prints diretamente pelo ceular, simplesmente escaneado o codigo qr code gerado na tela.
+- [NX Gallery](https://github.com/iUltimateLP/NXGallery/releases): Homebrew que permite que você acesse seus prints diretamente pelo ceular, simplesmente escaneado o codigo qr code gerado na tela.
 
 - [NXThemesInstaller](https://github.com/exelix11/SwitchThemeInjector/releases): Instalador de temas. Sempre utilize essa ferramenta para remover seus temas ANTES de atualizar a firmware do console.
 
