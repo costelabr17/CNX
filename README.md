@@ -2,7 +2,7 @@
 
 Pacote de atmosphere totalmente configurado e pronto para uso no seu Nintendo Switch.
 
-H## HOMEBREWS INCLUSOS:**
+## HOMEBREWS INCLUSOS:**
 
 - [CNX-update](https://github.com/AMSNX/cnxpack-updater): Este homebrew, desenvolvido pelo Marcus Miranda e o Ricardo "CostelaBR", é capaz, entre outras coisas, de baixar traduções/mods e atualizar tanto os packs GNX como CNX. Muito obrigado pela contribuição com a cena!
 
