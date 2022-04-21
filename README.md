@@ -2,7 +2,7 @@
 
 Pacote de atmosphere totalmente configurado e pronto para uso no seu Nintendo Switch.
 
-## HOMEBREWS INCLUSOS:**
+## HOMEBREWS INCLUSOS:
 
 - [CNX-update](https://github.com/AMSNX/cnxpack-updater): Este homebrew, desenvolvido pelo Marcus Miranda e o Ricardo "CostelaBR", é capaz, entre outras coisas, de baixar traduções/mods e atualizar tanto os packs GNX como CNX. Muito obrigado pela contribuição com a cena!
 
@@ -74,7 +74,7 @@ Podem ser habilitados ou desabilitados pelo homebrew Hekate Toolbox ou pelo Tesl
 - [ReverseNX-RT](https://github.com/masagrator/ReverseNX-RT/releases), que "engana" o console, forçando-o a pensar que está dockado no modo portátil e vice-versa.
 
 
-## ** SOFTWARES PARA USO NO PC:**
+## SOFTWARES PARA USO NO PC:
 
 - [TegraRcmGUI Portable e Installer](https://github.com/eliboa/TegraRcmGUI/releases): Injetor de payload.
 
