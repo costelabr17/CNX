@@ -38,7 +38,7 @@ Pacote de atmosphere totalmente configurado e pronto para uso no seu Nintendo Sw
 - [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases): Payload com uma série de funcionalidades. Está no pacote primariamente para possibilitar o uso do script...
   -- SyncFix.te, localizado na pasta TegraExplorer. Ele serve para sincronizar os controles e conexões da SysNAND para a EmuNAND, evitando assim a necessidade de ressincronizar os controles cada vez que alternar entre as NANDs.
 
-## ** MÓDULOS DE SISTEMA PARA O ATMOSPHÈRE**
+## MÓDULOS DE SISTEMA PARA O ATMOSPHÈRE INCLUSOS
 
 Podem ser habilitados ou desabilitados pelo homebrew Hekate Toolbox ou pelo Tesla Menu (L + D-pad para Baixo + R3):
 
